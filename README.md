@@ -9,8 +9,11 @@ I hope we can do great things together.
 ## 📬 Get in touch
 
 ✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)
+
 ✔ Instagram: [instagram.com/damian_ebeus/](https://www.instagram.com/damian_ebeus/)
+
 ✔ PortFolio: [portafolio-one-chi.vercel.app/](https://portafolio-one-chi.vercel.app/)
+
 ✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
 
 
