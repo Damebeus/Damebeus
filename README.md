@@ -12,7 +12,7 @@
   <img align="right" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432765/crow_affqe3.png">
 <h3 align="justify">In continuous training as a web developer.
   <br/>
-  Completely passionate about the Front-end and design.
+ <p align="center"> Completely passionate about the Front-end and design.</p
 I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
 I always seek to leave my mark on projects, leaving part of my spirit in them.
 Do not hesitate to contact me
