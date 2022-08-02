@@ -5,7 +5,7 @@ I always seek to leave my mark on projects, leaving part of my spirit in them.
 Do not hesitate to contact me
 I hope we can do great things together. </h3>
 
-## 📬 Get in touch
+<hr>
 
 ✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)
 
