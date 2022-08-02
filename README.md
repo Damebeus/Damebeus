@@ -13,7 +13,7 @@ Do not hesitate to contact me
 I hope we can do great things together. </h3>
 
 <hr>
-<img align="left" src="https://orhun.dev/img/crow.png">
+　　　　<img align="left" src="https://orhun.dev/img/crow.png">
 
 ✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)
 
