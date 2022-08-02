@@ -15,6 +15,7 @@ I love working in a team and I enjoy new challenges, I am very perfectionist and
 I always seek to leave my mark on projects, leaving part of my spirit in them.
 Do not hesitate to contact me
 I hope we can do great things together. </h3>
+  <br/>
 
 <hr>
 　　　　<img align="left" src="https://orhun.dev/img/crow.png">
