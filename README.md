@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, Welcome to my GitHub 👋</h1>
+<h1 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  Hi there, Welcome to my GitHub 👋</h1>
 <h3 align="justify">In continuous training as a web developer, completely passionate about the Front-end and design.
 I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
 I always seek to leave my mark on projects, leaving part of my spirit in them.
@@ -37,4 +37,4 @@ Javascript| Html | Css | React | Redux | Sequelize | Node JS | Express | Git | P
 
 
   </p >
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+
