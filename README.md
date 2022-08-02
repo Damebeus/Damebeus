@@ -16,10 +16,11 @@ I hope we can do great things together. </h3>
 ✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
 
 
-## <h2 align="center">Lenguajes y herramientas:</h2>
+
 <P align="center">
 Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  | linux | Mongodb
 </P>
+## <h2 align="center">Lenguajes y herramientas:</h2>
 <p align ="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>  
