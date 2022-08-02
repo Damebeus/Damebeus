@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Damian+Ebeus....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1
+
+
 <h1 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  Hi there, Welcome to my GitHub 👋</h1>
 <h3 align="justify">In continuous training as a web developer, completely passionate about the Front-end and design.
 I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
