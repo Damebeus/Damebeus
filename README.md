@@ -1,16 +1,16 @@
 ### Hi there, Welcome to my GitHub 👋
 
-<!--
-**Damebeus/Damebeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In continuous training as a web developer, completely passionate about the Front-end and design.
+I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
+I always seek to leave my mark on projects, leaving part of my spirit in them.
+Do not hesitate to contact me
+I hope we can do great things together.
 
-Here are some ideas to get you started:
+## 📬 Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)
+✔ Instagram: [instagram.com/damian_ebeus/](https://www.instagram.com/damian_ebeus/)
+✔ PortFolio: [portafolio-one-chi.vercel.app/](https://portafolio-one-chi.vercel.app/)
+✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
+
+
