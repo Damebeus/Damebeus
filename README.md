@@ -24,7 +24,7 @@ I hope we can do great things together. </h3>
 ✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
 
 
- <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Some Tool and Tech I use: <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+ <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Some Tool and Tech I use: </h2>
 <P align="center">
 Javascript| Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  
 </P>
