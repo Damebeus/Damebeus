@@ -8,7 +8,7 @@
 <img  src="https://c.tenor.com/yeqrkb29sOIAAAAC/mikey-tokyo-revengers-mikey.gif">
 </p>
   <hr>
-  
+  　<img align="left" src="https://orhun.dev/img/crow.png">
   <img align="right" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432765/crow_affqe3.png">
 <h3 align="justify">In continuous training as a web developer.
   <br/>
