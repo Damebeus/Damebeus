@@ -1,4 +1,5 @@
 <h1 align="center">
+  <hr>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+GitHub....;Nice+to+meet+you!&center=true&size=40">
   </a>
