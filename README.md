@@ -4,7 +4,7 @@
   </a>
 </h1
 
-<img align="center" src="https://c.tenor.com/yeqrkb29sOIAAAAC/mikey-tokyo-revengers-mikey.gif">
+<img align="center" src="https://c.tenor.com/yeqrkb29sOIAAAAC/mikey-tokyo-revengers-mikey.gif"/>
 
 <h3 align="justify">In continuous training as a web developer, completely passionate about the Front-end and design.
 I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
