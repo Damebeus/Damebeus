@@ -4,8 +4,10 @@
   </a>
 </h1
 <hr>
-<img align="center" src="https://c.tenor.com/yeqrkb29sOIAAAAC/mikey-tokyo-revengers-mikey.gif">
-
+  <p align="center">
+<img  src="https://c.tenor.com/yeqrkb29sOIAAAAC/mikey-tokyo-revengers-mikey.gif">
+</p>
+  
 <h3 align="justify">In continuous training as a web developer, completely passionate about the Front-end and design.
 I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
 I always seek to leave my mark on projects, leaving part of my spirit in them.
