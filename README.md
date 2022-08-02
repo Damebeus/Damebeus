@@ -16,7 +16,8 @@ I hope we can do great things together. </h3>
 ✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
 
 
-## <h3 align="center">Lenguajes y herramientas:</h3>
+## <h2 align="center">Lenguajes y herramientas:</h2>
+<hr>
 <P align="center">
 Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  | linux | Mongodb
 </P>
