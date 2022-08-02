@@ -17,7 +17,6 @@ I hope we can do great things together. </h3>
 
 
 ## <h2 align="center">Lenguajes y herramientas:</h2>
-
 <P align="center">
 Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  | linux | Mongodb
 </P>
