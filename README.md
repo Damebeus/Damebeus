@@ -26,7 +26,7 @@ I hope we can do great things together. </h3>
 
 ✔ Instagram: [instagram.com/damian_ebeus/](https://www.instagram.com/damian_ebeus/)
 
-✔ PortFolio: [portafolio-one-chi.vercel.app/](https://portafolio-one-chi.vercel.app/)
+✔ PortFolio: [ebeus.vercel.app/](https://ebeus.vercel.app/)
 
 ✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
 
